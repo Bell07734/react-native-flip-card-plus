@@ -65,7 +65,7 @@ export default class App extends Component {
           <Pressable
             style={styles.trigger}
             onPress={() => this.card.flipVertical()}>
-            <Text style={{ color: 'white' }}>Vetical</Text>
+            <Text style={{ color: 'white' }}>Vertical</Text>
           </Pressable>
         </View>
       </View>
